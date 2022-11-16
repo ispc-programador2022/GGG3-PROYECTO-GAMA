@@ -26,6 +26,7 @@ Netlify demora en cargar la app, paciencia :)
 - BBDD: Mongo Db Atlas, porque permite crear una base online de manera sencilla, 
 - Pandas: flexibilidad en el manejo de la informacion 
 - Google Collab: flexibilidad para trabajo en grupo y exhibicion de datos
+- Pyscript: integracion python con html - css - js
 - Netlify: despliegue sencillo de la aplicacion online
 
 
@@ -44,6 +45,7 @@ Netlify demora en cargar la app, paciencia :)
 - Pandas
 - PyMongo
 - Plotlib Express
+- Pyscript
 
 ## lenguajes
 - python
