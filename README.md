@@ -13,7 +13,7 @@
 ## link a al a app online : [AppSuper](https://splendorous-chebakia-4e472b.netlify.app/)
 Netlify demora en cargar la app, paciencia :)
 
-## [trello]([AppSuper](https://splendorous-chebakia-4e472b.netlify.app/) 
+## [trello](https://trello.com/w/ggg3proyectogama)
 
 ## Objetivo del proyecto:
 
