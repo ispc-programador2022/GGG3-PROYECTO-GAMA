@@ -2,9 +2,9 @@
 ## PROYECTO INTEGRADOR I
 ## Integrantes
 
-Monserrat Gutiérrez
-Cinthya Yael Gomez
-Carlos Gimenez
+- Monserrat Gutiérrez
+- Cinthya Yael Gomez
+- Carlos Gimenez
 
 ## App para comparar precios entre productos basicos en distintas localidades del pais
 
@@ -14,3 +14,19 @@ Carlos Gimenez
 Netlify demora en cargar la app, paciencia :)
 
 [AppSuper](https://splendorous-chebakia-4e472b.netlify.app/)
+
+## Librerias Utilizadas
+-bs4 BeatifulSoup
+-Requests
+-Pandas
+-PyMongo
+-Plotlib Express
+
+## lenguajes
+- python
+- HTML
+- CSS (Bootstrap 5)
+- javascript
+
+
+
