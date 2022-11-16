@@ -1,6 +1,11 @@
 # GGG3A-PROYECTO-GAMA
-PROYECTO INTEGRADOR I
+##PROYECTO INTEGRADOR I
+## Integrantes
 
-Link a la App
 
-[App](https://github.com/ispc-programador2022/GGG3A-PROYECTO-GAMA/blob/master/appSuperVisual.html)
+## App para comparar precios entre productos basicos en distintas localidades del pais
+
+<img src="https://i.ibb.co/XpwtM47/image.png" width=30% height=30%> 
+
+
+[AppSuper](https://splendorous-chebakia-4e472b.netlify.app/)
