@@ -24,7 +24,7 @@ Netlify demora en cargar la app, paciencia :)
 
 - Scrapping : Beautiful Soup por su sencillez, apoyada por la libreria requests
 - BBDD: Mongo Db Atlas, porque permite crear una base online de manera sencilla, 
-- pandas: flexibilidad en el manejo de la informacion 
+- Pandas: flexibilidad en el manejo de la informacion 
 - Google Collab: flexibilidad para trabajo en grupo y exhibicion de datos
 - Netlify: despliegue sencillo de la aplicacion online
 
