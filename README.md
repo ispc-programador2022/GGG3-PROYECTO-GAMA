@@ -1,5 +1,5 @@
 # GGG3A-PROYECTO-GAMA
-##PROYECTO INTEGRADOR I
+## PROYECTO INTEGRADOR I
 ## Integrantes
 Monserrat Gutiérrez
 Cyn
