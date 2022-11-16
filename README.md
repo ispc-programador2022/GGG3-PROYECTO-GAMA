@@ -1,8 +1,9 @@
 # GGG3A-PROYECTO-GAMA
 ## PROYECTO INTEGRADOR I
 ## Integrantes
+
 Monserrat Gutiérrez
-Cyn
+Cinthya Yael Gomez
 Carlos Gimenez
 
 ## App para comparar precios entre productos basicos en distintas localidades del pais
